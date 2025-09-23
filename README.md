@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Eva López
+# Hi there! 👋 I'm Eva-María López-Fernández
 
 ## 🎓 Academic Background
 - PhD Student in Informatics at University of Murcia 
@@ -6,7 +6,7 @@
 - BSc in Biochemistry
 
 ## 🔬 Current Work
-- Research at [CEBAS-CSIC](https://www.cebas.csic.es/) (Murcia, Spain) — funded by the CSIC Momentum Fellowship (Beca Momentum del CSIC)
+- Research at [CEBAS-CSIC](https://www.cebas.csic.es/) (Murcia, Spain) — funded by the [CSIC Momentum Fellowship](https://momentum.csic.es/)
 - Member of the Fruit Breeding Group at CEBAS‑CSIC
 - Transcriptomics and Genomics analysis
 - Software development for biological data analysis
