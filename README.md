@@ -21,7 +21,6 @@
 
 ## 🌱 Research Interests
 - Plant Genetics & Breeding
-- Computational Biology
 - Genomics & Transcriptomics
 - Bioinformatics Tools Development
 
