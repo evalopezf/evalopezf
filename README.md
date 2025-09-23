@@ -8,7 +8,7 @@
 ## 🔬 Current Work
 - Research at [CEBAS-CSIC](https://www.cebas.csic.es/) (Murcia, Spain) — funded by the CSIC Momentum Fellowship (Beca Momentum del CSIC)
 - Member of the Fruit Breeding Group at CEBAS‑CSIC
-- Transcriptomics analysis and NGS data processing
+- Transcriptomics and Genomics analysis
 - Software development for biological data analysis
 
 ## 💻 Technical Skills
@@ -21,6 +21,7 @@
 
 ## 🌱 Research Interests
 - Plant Genetics & Breeding
+- Computational Biology
 - Genomics & Transcriptomics
 - Bioinformatics Tools Development
 
@@ -30,5 +31,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/eva-l%C3%B3pez-fern%C3%A1ndez-044677251/)
 - 🐱 [GitHub](https://github.com/EvaLopezF)
 
----
-*Developing computational solutions for plant breeding and genomics research*
+
