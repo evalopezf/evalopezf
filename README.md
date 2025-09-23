@@ -17,7 +17,7 @@
 - **Data Analysis**: Statistical analysis, data visualization
 - **Development Tools**: Git, Docker
 - **Databases**: PostgreSQL
-- **Languages**: Spanish (Native), English (Professional)
+- **Languages**: Spanish (Native), English (Intermediate)
 
 ## 🌱 Research Interests
 - Plant Genetics & Breeding
