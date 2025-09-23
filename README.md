@@ -28,7 +28,6 @@
 ## 📫 Connect with me
 - 🔗 [Portfolio](https://evalopezf.github.io/portfolio-digital/)
 - 📧 [Email](mailto:evalopezf@cebas.csic.es)
-- 💼 [LinkedIn](https://www.linkedin.com/in/eva-l%C3%B3pez-fern%C3%A1ndez-044677251/)
-- 🐱 [GitHub](https://github.com/EvaLopezF)
+- 💼 [LinkedIn](www.linkedin.com/in/eva-maría-lópez-fernández-24a59821a)
 
 
