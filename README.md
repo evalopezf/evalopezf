@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Eva López
 
 ## 🎓 Academic Background
-- PhD Student in Informatics
+- PhD Student in Informatics at University of Murcia 
 - MSc in Bioinformatics
 - BSc in Biochemistry
 
