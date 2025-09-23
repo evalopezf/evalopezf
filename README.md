@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋 I'm Eva López
 
-<!--
-**evalopezf/evalopezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Academic Background
+- PhD Student in Informatics
+- MSc in Bioinformatics
+- BSc in Biochemistry
 
-Here are some ideas to get you started:
+## 🔬 Current Work
+- Research at [CEBAS-CSIC](https://www.cebas.csic.es/) (Murcia, Spain) — funded by the CSIC Momentum Fellowship (Beca Momentum del CSIC)
+- Member of the Fruit Breeding Group at CEBAS‑CSIC
+- Transcriptomics analysis and NGS data processing
+- Software development for biological data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Programming**: Python, R, Bash
+- **Bioinformatics**: RNA-seq analysis, NGS data processing
+- **Data Analysis**: Statistical analysis, data visualization
+- **Development Tools**: Git, Docker
+- **Databases**: PostgreSQL
+- **Languages**: Spanish (Native), English (Professional)
+
+## 🌱 Research Interests
+- Plant Genetics & Breeding
+- Computational Biology
+- Genomics & Transcriptomics
+- Bioinformatics Tools Development
+
+## 📫 Connect with me
+- 🔗 [Portfolio](https://evalopezf.github.io/portfolio-digital/)
+- 📧 [Email](mailto:evalopezf@cebas.csic.es)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eva-l%C3%B3pez-fern%C3%A1ndez-044677251/)
+- 🐱 [GitHub](https://github.com/EvaLopezF)
+
+---
+*Developing computational solutions for plant breeding and genomics research*
