@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Eva-María López-Fernández
 
 ## 🎓 Academic Background
-- PhD Student in Informatics at University of Murcia 
+- PhD Student in Computer Science at the University of Murcia -  Artificial Intelligence applied to Life Science
 - MSc in Bioinformatics
 - BSc in Biochemistry
 
